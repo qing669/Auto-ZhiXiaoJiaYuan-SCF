@@ -1,15 +1,15 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
+    "alias": "李青源",
+    "phone": "15660990238",
+    "password": "lqy20030125",
     "randomLocation": false,
-    "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "deviceType": "OPPO Find X3",
+    "deviceId": "上海市徐汇区田林路",
+    "address": "31.166567689891988",
+    "longitude": "121.400177",
+    "latitude": "31.166567689891988",
+    "pushKey": "0e42af49c39c4ab39b2e6457be14a27e"
   }
 ]
